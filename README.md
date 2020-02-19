@@ -16,14 +16,14 @@ Here is the roadmap or a wishlist.
 + KISS
 + Unit tests
 + Multiple databases must be supported
-___
+
 
 ## Functional specifications
 
 + Everything is a plugin
 + The core must be simple
 + Everything can be override
-___
+
 
 ## The true roadmap
 
